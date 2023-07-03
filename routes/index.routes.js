@@ -6,6 +6,3 @@ router.get("/", (req, res, next) => {
 });
 
 module.exports = router;
-
-
-//minute 10.05 youtube Lama  
